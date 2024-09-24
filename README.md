@@ -56,10 +56,11 @@ Completed three cyber security projects during a virtual internship at Academor.
 _Jul 2023 - Aug 2023_
 
 ## 🏆 Achievements
-- Finalist at Smart India Hackathon 2023 (Waitlist)
 - Participated in Bits and Build Hackathon 2024
 - Participated in Agnethon 2024
-- Participated at Projectatho
+- Participated at Projectathon
+- Secured 7th rank all over India in the prestigious Smart India Hackathon.
+- Won 2nd prize at the Project and Product Exhibition hosted by Atharva College of Engineering CSI Student Branch in collaboration with CSI Mumbai Chapter during the “TechNext” Annual Event.
 
 
 
